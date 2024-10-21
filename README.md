@@ -1,2 +1,2 @@
-# SQL-and-Python-Integration-Project
-This project is aimed towards Exploratory Data Analysis using SQL and Python for  TerpBuy (Hypothetical), a global business-to-consumer and business-to-business platform
+# Introduction
+TerpBuy (Hypothetical), a global business-to-consumer and business-to-business platform. It is based in and operates out of College Park, Maryland, USA, and has a distribution facility in Mumbai, India. The company is looking for insights on different aspects of its customers, products, departments, and orders. To help the company, you will have to export data from its data warehouse.
